@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushant Vijay Shelar</h1>
-<h3 align="center">Highly skilled professional with 3.2 years of Software Developement work experience in IT industry</h3>
+<h3 align="center">Highly skilled professional with 3.2 years of Software Developement and Machine Learning work experience in IT industry</h3>
 <h3 align="center">Currently pursuing Masters in Computer Engineering from Texas A&M University, College Station USA</h3>
-<h3 align="center">I'm passionate about Software Engineering, AI, Computer Vision and Robotics Engineering</h3>
+<h3 align="center">I'm passionate about Machine Learning, Software Engineering, Computer Vision and Robotics</h3>
 
 
 
