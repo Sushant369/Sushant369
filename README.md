@@ -9,7 +9,7 @@
 https://user-images.githubusercontent.com/72655705/236562255-beb52592-835d-41a2-88bd-ee4006865a34.mp4
 
 
-- 💬 Ask me about **Machine Learning, Computer Vision, Robotics & Software Engineering**
+- 💬 Ask me about **Machine Learning, Data Science, Computer Vision, Robotics & Software Engineering**
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
 
