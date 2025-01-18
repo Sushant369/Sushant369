@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushant Vijay Shelar</h1>
 <h3 align="center">Highly skilled professional with over 3.5 years of Software Developement and Machine Learning work experience in IT industry.</h3>
 <h3 align="center">Currently pursuing Masters in Computer Engineering from Texas A&M University, College Station USA.</h3>
-<h3 align="center">I'm passionate about Machine Learning, Software Engineering, Computer Vision and Robotics.</h3>
+<h3 align="center">I'm passionate about Machine Learning, Deep Learning, Large Language Models, Software Engineering, Computer Vision and Robotics.</h3>
 <h3 align="center">Check out my latest Machine Learning Projects 👉 <a href="https://github.com/stars/Sushant369/lists/machine-learning-projects">Click Here!</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushant369&label=Profile%20views&color=0e75b6&style=flat" alt="sushant369" /> </p>
