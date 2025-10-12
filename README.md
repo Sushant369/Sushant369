@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushant Vijay Shelar</h1>
-<h3 align="center">Highly skilled professional with 4 years of Software Developement and Machine Learning work experience in IT industry.</h3>
+<h3 align="center">Highly skilled professional with 5 years of Software Developement and Machine Learning work experience in IT industry.</h3>
 <h3 align="center">Currently pursuing Masters in Computer Engineering (AI/ML) from Texas A&M University, College Station USA.</h3>
 <h3 align="center">I'm passionate about Machine Learning, AI Engineering, Deep Learning, Large Language Models, Software Engineering, Computer Vision and Robotics.</h3>
 <h3 align="center">Check out my latest Machine Learning Projects 👉 <a href="https://github.com/stars/Sushant369/lists/machine-learning-projects">Click Here!</a></h3>
